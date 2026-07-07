@@ -34,3 +34,19 @@ Submarines use SONAR signals to detect underwater objects. The objective of this
 - Testing Accuracy: **76.19%**
 
 - The model predicted the sample input as: **Mine**
+
+- ## What I Learned
+Through this project, I learned:
+- How to load and explore datasets using Pandas
+- How to separate features and target variables
+- How to split data into training and testing sets
+- How Logistic Regression works for binary classification
+- How to evaluate a machine learning model using accuracy scores
+- How to make predictions on new data
+
+
+## Future Improvements
+- Compare Logistic Regression with Decision Trees and Random Forests
+- Perform feature scaling and compare performance
+- Tune model hyperparameters
+- Build a simple web application for predictions
